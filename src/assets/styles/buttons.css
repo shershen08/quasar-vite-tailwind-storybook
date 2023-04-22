@@ -1,0 +1,4 @@
+
+.q-btn.bg-primary {
+    @apply py-10 rounded-lg px-4 bg-red-500 text-black;
+ }
